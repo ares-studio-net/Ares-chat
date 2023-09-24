@@ -1,0 +1,4 @@
+name: BlockWords
+version: '1.0.0-SNAPSHOT'
+main: pl.kpgtb.blockwords.BlockWords
+api-version: '1.19'

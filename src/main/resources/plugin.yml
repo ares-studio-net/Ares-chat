@@ -1,0 +1,4 @@
+name: BlockWords
+version: '${project.version}'
+main: pl.kpgtb.blockwords.BlockWords
+api-version: '1.19'
